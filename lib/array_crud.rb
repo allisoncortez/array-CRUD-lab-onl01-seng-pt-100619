@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  new_array = []
+  new_array = ["Cheshire Cat", "Puss in Boots", "Garfield", "Black Cat"]
   
 end
 
