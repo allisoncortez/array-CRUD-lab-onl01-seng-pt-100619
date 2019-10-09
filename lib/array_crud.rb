@@ -21,9 +21,9 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-    new_array = []
-  Array.pop
-  new_array
+    # new_array = []
+  array.pop
+  # new_array
 end
 
 def remove_element_from_start_of_array(array)
