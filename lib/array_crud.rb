@@ -22,7 +22,7 @@ end
 
 def remove_element_from_end_of_array(array)
     new_array = []
-  new_array.pop
+  Array.pop
   new_array
 end
 
