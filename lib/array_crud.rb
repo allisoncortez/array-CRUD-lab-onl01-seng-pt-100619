@@ -4,8 +4,8 @@ def create_an_empty_array
 end
 
 def create_an_array
-  new_array = ["Cheshire Cat", "Puss in Boots", "Garfield", "Black Cat"]
-  
+  cat_array = ["Cheshire Cat", "Puss in Boots", "Garfield", "Black Cat"]
+  cat_array
 end
 
 def add_element_to_end_of_array(array, element)
